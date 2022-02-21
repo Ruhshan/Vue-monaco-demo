@@ -4,7 +4,7 @@ The helper repo for the article: [How To Use Monaco Editor In VueJS: The missing
 ### How to run
 Clone the repo
 ```shell
-git clone <>
+git clone https://github.com/Ruhshan/Vue-monaco-demo
 ````
 
 Run the docker containers
